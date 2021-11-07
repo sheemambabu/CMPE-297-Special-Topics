@@ -1,4 +1,4 @@
-CMPE 297: Assignment 4
+# CMPE 297: Assignment 4
 
 Use Deep AutoVIML for various tasks like,
 
@@ -8,4 +8,4 @@ b) image task
 
 c) nlp task
 
-Note: If the Ipynb files are not opening, please go to https://nbviewer.org/ and the paste the github link.
+**Note**: If the Ipynb files are not opening, please go to https://nbviewer.org/ and the paste the github link.
